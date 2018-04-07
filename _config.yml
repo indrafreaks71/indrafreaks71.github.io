@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "indrafreaks71 blog"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Gun Gun Indra Gunawan"
 description              : "Blognya si indra."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -98,19 +98,19 @@ analytics:
 # Site Author
 author:
   name             : "Gun Gun Indra Gunawan"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /others/profile.jpg
   bio              : "I am an amazing person."
   location         : "Nomaden"
-  email            :
+  email            : "gun.ig97@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "budax.kaseft"
   foursquare       :
-  github           :
+  github           : "indrafreaks71"
   gitlab           :
   google_plus      :
   keybase          :
