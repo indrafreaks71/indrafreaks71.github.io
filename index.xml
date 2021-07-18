@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>indrafreaks blog</title>
+    <link>https://indrafreaks71.github.io/</link>
+    <description>Recent content on indrafreaks blog</description>
+    <image>
+      <url>https://jarmos.netlify.app/profile-pic.jpg</url>
+      <link>https://jarmos.netlify.app/profile-pic.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 17 Jul 2021 10:09:54 +0700</lastBuildDate><atom:link href="https://indrafreaks71.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://indrafreaks71.github.io/about/</link>
+      <pubDate>Sat, 17 Jul 2021 10:47:25 +0700</pubDate>
+      
+      <guid>https://indrafreaks71.github.io/about/</guid>
+      <description>Hi there! 👋 I’m Somraj Saha (you can call me Jarmos).
+I work as an independent Software Engineer for a living. Over the years I picked up knowledge in Python &amp;amp; Machine Learning (mostly due to my academic background in Economics). And only recently did I start dabbling around with frontend technologies for the Web.
+I’ve listed my tech stack on the Technology Stack section of my Services page. So, in case you would like to hire me, that information might prove useful for you!</description>
+    </item>
+    
+    <item>
+      <title>Apt vs Apt Get</title>
+      <link>https://indrafreaks71.github.io/post/apt-vs-apt-get/</link>
+      <pubDate>Sat, 17 Jul 2021 10:09:54 +0700</pubDate>
+      
+      <guid>https://indrafreaks71.github.io/post/apt-vs-apt-get/</guid>
+      <description>tessajaaa</description>
+    </item>
+    
+    <item>
+      <title>My 1st post</title>
+      <link>https://indrafreaks71.github.io/page/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://indrafreaks71.github.io/page/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>
